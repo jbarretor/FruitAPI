@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joseb\\Documents\\Desarrollo\\Pruebas trabajo\\Number8\\DataAccess\\DataAccess.csproj": {}
+    "D:\\Desarrollo\\Pruebas trabajo\\Number-8\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joseb\\Documents\\Desarrollo\\Pruebas trabajo\\Number8\\DataAccess\\DataAccess.csproj": {
+    "D:\\Desarrollo\\Pruebas trabajo\\Number-8\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joseb\\Documents\\Desarrollo\\Pruebas trabajo\\Number8\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\Desarrollo\\Pruebas trabajo\\Number-8\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\joseb\\Documents\\Desarrollo\\Pruebas trabajo\\Number8\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\Desarrollo\\Pruebas trabajo\\Number-8\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\joseb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joseb\\Documents\\Desarrollo\\Pruebas trabajo\\Number8\\DataAccess\\obj\\",
+        "outputPath": "D:\\Desarrollo\\Pruebas trabajo\\Number-8\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joseb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\joseb\\Documents\\Desarrollo\\Pruebas trabajo\\Number8\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\joseb\\Documents\\Desarrollo\\Pruebas trabajo\\Number8\\Entities\\Entities.csproj"
+              "D:\\Desarrollo\\Pruebas trabajo\\Number-8\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Desarrollo\\Pruebas trabajo\\Number-8\\Entities\\Entities.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\joseb\\Documents\\Desarrollo\\Pruebas trabajo\\Number8\\Entities\\Entities.csproj": {
+    "D:\\Desarrollo\\Pruebas trabajo\\Number-8\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joseb\\Documents\\Desarrollo\\Pruebas trabajo\\Number8\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Desarrollo\\Pruebas trabajo\\Number-8\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\joseb\\Documents\\Desarrollo\\Pruebas trabajo\\Number8\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Desarrollo\\Pruebas trabajo\\Number-8\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\joseb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joseb\\Documents\\Desarrollo\\Pruebas trabajo\\Number8\\Entities\\obj\\",
+        "outputPath": "D:\\Desarrollo\\Pruebas trabajo\\Number-8\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joseb\\AppData\\Roaming\\NuGet\\NuGet.Config",

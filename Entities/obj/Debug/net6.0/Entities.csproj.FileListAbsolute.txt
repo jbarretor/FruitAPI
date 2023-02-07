@@ -10,3 +10,15 @@ C:\Users\joseb\Documents\Desarrollo\Pruebas trabajo\Number8\Entities\obj\Debug\n
 C:\Users\joseb\Documents\Desarrollo\Pruebas trabajo\Number8\Entities\obj\Debug\net6.0\refint\Entities.dll
 C:\Users\joseb\Documents\Desarrollo\Pruebas trabajo\Number8\Entities\obj\Debug\net6.0\Entities.pdb
 C:\Users\joseb\Documents\Desarrollo\Pruebas trabajo\Number8\Entities\obj\Debug\net6.0\ref\Entities.dll
+D:\Desarrollo\Pruebas trabajo\Number-8\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\Desarrollo\Pruebas trabajo\Number-8\Entities\bin\Debug\net6.0\Entities.dll
+D:\Desarrollo\Pruebas trabajo\Number-8\Entities\bin\Debug\net6.0\Entities.pdb
+D:\Desarrollo\Pruebas trabajo\Number-8\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\Desarrollo\Pruebas trabajo\Number-8\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\Pruebas trabajo\Number-8\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\Desarrollo\Pruebas trabajo\Number-8\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\Desarrollo\Pruebas trabajo\Number-8\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Pruebas trabajo\Number-8\Entities\obj\Debug\net6.0\Entities.dll
+D:\Desarrollo\Pruebas trabajo\Number-8\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\Desarrollo\Pruebas trabajo\Number-8\Entities\obj\Debug\net6.0\Entities.pdb
+D:\Desarrollo\Pruebas trabajo\Number-8\Entities\obj\Debug\net6.0\ref\Entities.dll

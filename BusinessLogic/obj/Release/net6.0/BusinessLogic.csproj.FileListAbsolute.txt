@@ -1,0 +1,17 @@
+D:\Desarrollo\Pruebas trabajo\Number-8\BusinessLogic\bin\Release\net6.0\BusinessLogic.deps.json
+D:\Desarrollo\Pruebas trabajo\Number-8\BusinessLogic\bin\Release\net6.0\BusinessLogic.dll
+D:\Desarrollo\Pruebas trabajo\Number-8\BusinessLogic\bin\Release\net6.0\BusinessLogic.pdb
+D:\Desarrollo\Pruebas trabajo\Number-8\BusinessLogic\bin\Release\net6.0\DataAccess.dll
+D:\Desarrollo\Pruebas trabajo\Number-8\BusinessLogic\bin\Release\net6.0\Entities.dll
+D:\Desarrollo\Pruebas trabajo\Number-8\BusinessLogic\bin\Release\net6.0\DataAccess.pdb
+D:\Desarrollo\Pruebas trabajo\Number-8\BusinessLogic\bin\Release\net6.0\Entities.pdb
+D:\Desarrollo\Pruebas trabajo\Number-8\BusinessLogic\obj\Release\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Desarrollo\Pruebas trabajo\Number-8\BusinessLogic\obj\Release\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\Pruebas trabajo\Number-8\BusinessLogic\obj\Release\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Desarrollo\Pruebas trabajo\Number-8\BusinessLogic\obj\Release\net6.0\BusinessLogic.AssemblyInfo.cs
+D:\Desarrollo\Pruebas trabajo\Number-8\BusinessLogic\obj\Release\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Pruebas trabajo\Number-8\BusinessLogic\obj\Release\net6.0\BusinessLogic.csproj.CopyComplete
+D:\Desarrollo\Pruebas trabajo\Number-8\BusinessLogic\obj\Release\net6.0\BusinessLogic.dll
+D:\Desarrollo\Pruebas trabajo\Number-8\BusinessLogic\obj\Release\net6.0\refint\BusinessLogic.dll
+D:\Desarrollo\Pruebas trabajo\Number-8\BusinessLogic\obj\Release\net6.0\BusinessLogic.pdb
+D:\Desarrollo\Pruebas trabajo\Number-8\BusinessLogic\obj\Release\net6.0\ref\BusinessLogic.dll

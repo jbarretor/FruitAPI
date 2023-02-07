@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sBT9S0CEWq80FItu//PrMXQwUjyHMjfirKmGVHNG3+AvHdrtn9oV/o8BUwZdc6lOvkTsHUMPdm5ubpiERHmG4g==",
+  "dgSpecHash": "1AKApyfQVzHvr64pgd5okhpaNQ3OqCDxLmVA1UhFW6mtwyru7PC74AXyYEetBHUdEc7LfyoyIJsw08Yqt6ZE8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joseb\\Documents\\Desarrollo\\Pruebas trabajo\\Number8\\API\\API.csproj",
+  "projectFilePath": "D:\\Desarrollo\\Pruebas trabajo\\Number-8\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joseb\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
     "C:\\Users\\joseb\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.2\\microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",
