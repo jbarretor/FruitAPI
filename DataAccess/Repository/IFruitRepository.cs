@@ -1,6 +1,4 @@
-﻿using DataAccess.Models;
-using Entities;
-using Microsoft.EntityFrameworkCore;
+﻿using Entities;
 using Models;
 
 namespace DataAcess.Repository

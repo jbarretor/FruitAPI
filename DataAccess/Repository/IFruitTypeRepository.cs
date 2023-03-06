@@ -1,7 +1,5 @@
 ﻿using DataAccess.Models;
 using Entities;
-using Microsoft.EntityFrameworkCore;
-using Models;
 
 namespace DataAcess.Repository
 {

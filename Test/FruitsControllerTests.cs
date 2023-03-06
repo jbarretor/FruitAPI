@@ -1,12 +1,8 @@
-﻿using NUnit.Framework;
+﻿using Entities;
+using NUnit.Framework;
 using System.Net;
-using System.Threading.Tasks;
 using System.Net.Http.Headers;
-using System.Net.Http;
 using System.Text.Json;
-using System.Linq;
-using System.Collections.Generic;
-using Entities;
 
 namespace FruitTest
 {
@@ -198,7 +194,7 @@ namespace FruitTest
         private static ByteArrayContent CreateContentFruit()
         {
             var item = JsonSerializer.Serialize(
-                new {  }
+                new { }
             );
             var content = new StringContent(item);
             content.Headers.ContentType = new MediaTypeHeaderValue("application/json");

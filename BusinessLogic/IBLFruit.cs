@@ -1,5 +1,4 @@
-﻿using DataAcess;
-using DataAcess.Repository;
+﻿using DataAcess.Repository;
 using Entities;
 
 namespace BusinessLogic

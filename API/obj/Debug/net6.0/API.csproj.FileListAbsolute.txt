@@ -86,3 +86,8 @@ D:\Desarrollo\Pruebas trabajo\Number-8\API\obj\Debug\net6.0\refint\API.dll
 D:\Desarrollo\Pruebas trabajo\Number-8\API\obj\Debug\net6.0\API.pdb
 D:\Desarrollo\Pruebas trabajo\Number-8\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 D:\Desarrollo\Pruebas trabajo\Number-8\API\obj\Debug\net6.0\ref\API.dll
+D:\Desarrollo\Pruebas trabajo\Number-8\API\bin\Debug\net6.0\Publish\web.config
+D:\Desarrollo\Pruebas trabajo\Number-8\API\bin\Debug\net6.0\Publish\API.deps.json
+D:\Desarrollo\Pruebas trabajo\Number-8\API\bin\Debug\net6.0\Publish\API.runtimeconfig.json
+D:\Desarrollo\Pruebas trabajo\Number-8\API\bin\Debug\net6.0\Publish\appsettings.Development.json
+D:\Desarrollo\Pruebas trabajo\Number-8\API\bin\Debug\net6.0\Publish\appsettings.json
