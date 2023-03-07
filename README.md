@@ -2,6 +2,8 @@
 
 This is a rest API developed in Net Core which contains all the operations of a CRUD, it manages a database in memory to persist the information that has been saved
 
+
+
 ## Operations
 
 ### POST
@@ -48,7 +50,7 @@ This method returns a specific fruit, to execute it you just have to enter the f
 This method receives all the data of the fruit that you want to update, to execute it you only have to enter the following URL replacing `ID` with the Id of the fruit you want to update:
 
 ```http
-  PUT /Fruits/ID
+  PUT/Fruits/ID
 ```
 
 In the body sent a JSON taking into account that the `Description` field must contain a minimum of 25 characters
@@ -73,3 +75,11 @@ This method receives the fruit ID of the fruit you want to remove, to execute it
 ```http
   DELETE /Fruits/ID
 ```
+
+## Authors
+
+- [@jbarretor](https://github.com/jbarretor)
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jbarretor.github.io/CV/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbarretor/?locale=en_US)
