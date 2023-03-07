@@ -48,7 +48,7 @@ This method returns a specific fruit, to execute it you just have to enter the f
 This method receives all the data of the fruit that you want to update, to execute it you only have to enter the following URL replacing `ID` with the Id of the fruit you want to update:
 
 ```http
-  PUT/Fruits/ID
+  PUT /Fruits/ID
 ```
 
 In the body sent a JSON taking into account that the `Description` field must contain a minimum of 25 characters
